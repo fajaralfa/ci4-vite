@@ -1,0 +1,19 @@
+{
+  "name": "ci4",
+  "version": "0.0.1",
+  "description": "## What is CodeIgniter?",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "fajaralfa",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.12"
+  }
+}
