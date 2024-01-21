@@ -1,5 +1,4 @@
 import { defineConfig } from 'vite'
-import solidPlugin from 'vite-plugin-solid'
 
 export default defineConfig({
     build: {
@@ -14,5 +13,5 @@ export default defineConfig({
             },
         },
     },
-    plugins: [solidPlugin()],
+    plugins: [],
 })
