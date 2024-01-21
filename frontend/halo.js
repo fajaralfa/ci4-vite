@@ -1,3 +1,3 @@
 export function halo() {
-    console.log('halo dari module')
+    return 'halo dari module'
 }
